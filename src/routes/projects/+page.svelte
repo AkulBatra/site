@@ -4,18 +4,27 @@
 </script>
 
 <div class="flex items-center justify-center">
-    <div>
-        <div class="space-y-2  pt-6 pb-8 md:space-y-5 text-center">
+    <div class="w-full max-w-6xl">
+        <div class="space-y-2 pt-6 pb-8 md:space-y-5 text-center">
             <Title title="Projects" subtitle="Things that I'm currently working on." />
-            <Card
-            title = "test"
-             description = "testing out cards" />
-             <Card
-            title = "test"
-             description = "testing out cards" />
-             <Card
-            title = "test"
-             description = "testing out cards" />
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-8">
+                <Card
+                    title="test"
+                    description="testing out cards"
+                    class="p-6 md:p-8"
+                />
+                <Card
+                    title="test"
+                    description="testing out cards"
+                    class="p-6 md:p-8"
+                />
+                <Card
+                    title="test"
+                    description="testing out cards"
+                    class="p-6 md:p-8"
+                />
+                <!-- Add more Card components if needed -->
+            </div>
         </div>
     </div>
 </div>
