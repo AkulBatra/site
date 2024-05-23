@@ -11,7 +11,7 @@
             </div>
         </div>
         <div class="pt-8">
-            <h1 class="text-2xl">WIP</h1>
+            <h1 class="text-2xl">Yeah...I don't really know what to write here.</h1>
         </div>
     </div>
 </div>
