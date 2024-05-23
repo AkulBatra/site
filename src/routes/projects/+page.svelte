@@ -9,18 +9,9 @@
             <Title title="Projects" subtitle="Things that I'm currently working on." />
             <div class="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-8">
                 <Card
-                    title="test"
-                    description="testing out cards"
-                    class="p-6 md:p-8"
-                />
-                <Card
-                    title="test"
-                    description="testing out cards"
-                    class="p-6 md:p-8"
-                />
-                <Card
-                    title="test"
-                    description="testing out cards"
+                    title="site"
+                    link = "https://github.com/AkulBatra/site"
+                    description="personal website"
                     class="p-6 md:p-8"
                 />
                 <!-- Add more Card components if needed -->
