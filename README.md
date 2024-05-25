@@ -1,3 +1,3 @@
 # Site
 
-https://akulbatra.vercel.app/
+https://akul.69x.dev
