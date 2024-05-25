@@ -5,6 +5,5 @@
 	const post = data.post;
 </script>
 
-<Head title={post.title} />
 
 <Blog {post}  />
